@@ -1,6 +1,5 @@
 import { Keyboard, StyleSheet, Text, TouchableWithoutFeedback,} from 'react-native'
 import { Link } from 'expo-router'
-import { Colors } from '../../constants/Colors'
 
 // themed components
 import ThemedView from '../../components/ThemedView'
